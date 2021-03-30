@@ -9,3 +9,6 @@ body{
 	flex-direction: column;
 	padding:10vh;	
 }
+a{
+	font-size: 24px;
+}
