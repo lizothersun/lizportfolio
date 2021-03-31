@@ -5,10 +5,17 @@ img{
 
 body{
 	display:flex;
-	align-items: center;
+	align-items: left;
 	flex-direction: column;
 	padding:10vh;	
 }
-a{
+
+.container{
+	padding:4px;
+	border: 6px;
+	border-color: black;
+	border-style: solid;
+}
+#pcontent{
 	font-size: 24px;
 }
